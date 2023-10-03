@@ -1,10 +1,5 @@
-# To-Do
-1. Get Jupyter to Work
-2. Create Notebook showing off the EDA with some text
-3. Create StApp to dynamically adjust everything and get a plotted result alongside a value table for year 1, 3, 5, 7, 10, 12, 15, 20, 25, 30 ...
+# Setup
+Use the dockerfile to build your own docker application and run it, then open the notebook for a demonstration or navigate to port 8501 to try out the investment forecast...
 
-- Streamlit App needs some proper data for it
-- Get some percentage change data saved for bootstrap -> Func
-- Get some indices data saved for quick and easy updating -> Func
-
--- Get the fucking Jupyter Notebook going my man
+# Notice
+The project is in a serviceable state, but not fully polished. This read me and other stuff will be updated in due time to better explain the entire proejct
